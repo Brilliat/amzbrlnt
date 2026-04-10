@@ -3,11 +3,11 @@
   "lastUpdated": "2026-02-28",
   "games": [
     {
-      "gameId": "police_01",
-      "gameName": "Cop Duty Rush City Patrol Game",
-      "packageName": "com.cop.duty.rush.city.patrol.game.amazon",
-      "amazonAppId": "B0GH7M6N1B",
-      "storeUrl": "https://www.amazon.com/gp/product/B0GH7M6N1B",
+      "gameId": "teacher_01",
+      "gameName": "Angry Teacher Class Prank",
+      "packageName": "com.teacher",
+      "amazonAppId": "B0FY4WBM38",
+      "storeUrl": "",
       "videoUrl": "https://pub-30dcd1800d4d4289a15dd963383d9a11.r2.dev/Police%201.mp4",
       "iconUrl": "",
       "priority": 1,
